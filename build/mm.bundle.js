@@ -37522,7 +37522,8 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-	"siteurl": "http://demo.acadeer.com",
+	"siteurl": "demo.acadeer.com",
     "customurlscheme": "moodlemobile"
+	"presets": {"url":"http://demo.acadeer.com"}
 }
 );
