@@ -9,5 +9,6 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-	"siteurl": "http://demo.acadeer.com"
+	"siteurl": "demo.acadeer.com",
+	"presets": {"url":"http://demo.acadeer.com"}
 }
